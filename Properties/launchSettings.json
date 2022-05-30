@@ -15,6 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+    
     "signalRtc": {
       "commandName": "Project",
       "launchBrowser": true,
